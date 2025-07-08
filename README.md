@@ -3,7 +3,7 @@
 <h1 align="center">✨ Silky Vyas ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F754A6&center=true&vCenter=true&width=435&lines=AI+%7C+ML+Engineer+%7C+Open+Source+Contributor;Data+Scientist+%7C+BI+Analyst+%7C+Creative+Technophile" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=F754A6&center=true&vCenter=true&width=600&lines=AI+Engineer;ML+Engineer;Data+Scientist;Open+Source+Contributor;BI+Analyst;Creative+Technophile" />
 </p>
 
 <p align="center">
