@@ -1,31 +1,60 @@
 <!-- Silky Vyas - README.md -->
+
+<!--
+░██████╗██╗██╗░░░░░██╗░░██╗██╗░░░██╗  ██╗░░░██╗██╗░░░██╗░█████╗░░██████╗
+██╔════╝██║██║░░░░░██║░██╔╝╚██╗░██╔╝  ██║░░░██║╚██╗░██╔╝██╔══██╗██╔════╝
+╚█████╗░██║██║░░░░░█████═╝░░╚████╔╝░  ╚██╗░██╔╝░╚████╔╝░███████║╚█████╗░
+░╚═══██╗██║██║░░░░░██╔═██╗░░░╚██╔╝░░  ░╚████╔╝░░░╚██╔╝░░██╔══██║░╚═══██╗
+██████╔╝██║███████╗██║░╚██╗░░░██║░░░  ░░╚██╔╝░░░░░██║░░░██║░░██║██████╔╝
+╚═════╝░╚═╝╚══════╝╚═╝░░╚═╝░░░╚═╝░░░  ░░░╚═╝░░░░░░╚═╝░░░╚═╝░░╚═╝╚═════╝░
+-->
+
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=SILKY+VYAS;AI+ARCHITECT;FUTURE+BUILDER" alt="Silky Vyas" />
-  </h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=60&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=S+I+L+K+Y++++V+Y+A+S;A+I++++A+R+C+H+I+T+E+C+T;V+I+S+I+O+N+A+R+Y" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=900&lines=🧠+Neural+Network+Whisperer+%7C+Data+Storyteller;🚀+Building+Tomorrow's+Intelligence+Today;💫+Transforming+Ideas+Into+Intelligent+Reality;🔮+Where+Code+Meets+Consciousness;⚡+Pushing+The+Boundaries+Of+Possibility" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=1000&lines=▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓;🧠+Neural+Network+Whisperer+%7C+Data+Storyteller+Supreme;🚀+Building+Tomorrow's+Intelligence+with+Precision+%26+Passion;💫+Transforming+Raw+Data+Into+Intelligent+Miracles;🔮+Where+Mathematics+Meets+Magic+%7C+Code+Meets+Consciousness;⚡+Pushing+Boundaries+of+What's+Possible+in+AI+%26+Beyond;🌟+Crafting+Solutions+That+Change+Lives+%7C+One+Algorithm+at+a+Time;▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓" />
 </div>
 
 <div align="center">
-  <a href="mailto:vyassilky2004@gmail.com">
-    <img src="https://img.shields.io/badge/📧_CONTACT-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
-  </a>
-  <a href="https://github.com/hopessugar">
-    <img src="https://img.shields.io/badge/🚀_GITHUB-4ECDC4?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-  </a>
-  <img src="https://img.shields.io/badge/🌍_UDAIPUR_INDIA-45B7D1?style=for-the-badge&labelColor=000000" />
-  <img src="https://komarev.com/ghpvc/?username=hopessugar&style=for-the-badge&color=blueviolet&labelColor=000000" />
+  <table>
+    <tr>
+      <td align="center">
+        <a href="mailto:vyassilky2004@gmail.com">
+          <img src="https://img.shields.io/badge/📧_CONTACT-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/hopessugar">
+          <img src="https://img.shields.io/badge/🚀_GITHUB-4ECDC4?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" />
+        </a>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🌍_UDAIPUR_INDIA-45B7D1?style=for-the-badge&labelColor=1a1a1a" />
+      </td>
+      <td align="center">
+        <img src="https://komarev.com/ghpvc/?username=hopessugar&style=for-the-badge&color=blueviolet&labelColor=1a1a1a" />
+      </td>
+    </tr>
+  </table>
 </div>
 
----
-
-## 🎯 **THE ARCHITECT**
+<br><br>
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆" />
+</div>
 
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <div align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=400&lines=◢+THE+ARCHITECT+◣" />
+      </div>
+      <br>
+      <div align="left">
+        
 ```python
 class SilkyVyas:
     def __init__(self):
@@ -33,196 +62,352 @@ class SilkyVyas:
         self.title = "AI Engineer & Visionary"
         self.education = "B.Tech in Artificial Intelligence"
         self.location = "Udaipur, India 🇮🇳"
-        self.mission = "Transforming imagination into intelligent reality"
-        self.status = "Currently revolutionizing the world, one algorithm at a time"
+        self.status = "▓▓▓▓▓▓▓▓▓▓ 100% FOCUSED"
         
-    def get_superpowers(self):
+    def consciousness(self):
         return {
             "🧠": "Neural Network Whisperer",
             "📊": "Data Storyteller Supreme", 
             "🔮": "Future Technology Prophet",
             "💫": "Code Poetry Composer",
             "🚀": "Innovation Catalyst",
-            "⚡": "Problem-Solving Wizard"
+            "⚡": "Digital Alchemist"
         }
     
-    def current_focus(self):
+    def current_reality(self):
         return [
-            "Building AI solutions that change lives",
-            "Contributing to open-source revolution",
-            "Researching next-gen healthcare AI",
-            "Mentoring future tech leaders"
+            "🌟 Revolutionizing healthcare with AI",
+            "🔥 Building tomorrow's intelligent systems",
+            "💎 Transforming data into digital gold",
+            "🎯 Making AI accessible to humanity"
         ]
-    
-    def dream_big(self):
-        return "Making AI accessible to everyone, everywhere"
 ```
 
-</div>
-
----
-
-## 🛠️ **TECH ARSENAL**
+      </div>
+    </td>
+    <td align="center" width="50%">
+      <div align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=400&lines=◢+TECH+MASTERY+◣" />
+      </div>
+      <br>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,pandas,numpy,jupyter,vscode,git,github,mysql,postgresql,mongodb,aws,gcp,docker,linux,html,css,js,react,nodejs,cpp,r&theme=dark&perline=5" />
+      </div>
+      <br>
+      <div align="center">
+        <table>
+          <tr>
+            <td align="center">
+              <img src="https://img.shields.io/badge/🧠_AI/ML-FF6B6B?style=for-the-badge&labelColor=1a1a1a" />
+            </td>
+            <td align="center">
+              <img src="https://img.shields.io/badge/📊_DATA-4ECDC4?style=for-the-badge&labelColor=1a1a1a" />
+            </td>
+          </tr>
+          <tr>
+            <td align="center">
+              <img src="https://img.shields.io/badge/☁️_CLOUD-45B7D1?style=for-the-badge&labelColor=1a1a1a" />
+            </td>
+            <td align="center">
+              <img src="https://img.shields.io/badge/🌐_FULL_STACK-00D9FF?style=for-the-badge&labelColor=1a1a1a" />
+            </td>
+          </tr>
+        </table>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,pandas,numpy,jupyter,vscode,git,github,mysql,postgresql,mongodb,aws,gcp,docker,linux,html,css,js,react,nodejs,cpp,r&theme=dark&perline=10" />
-</div>
-
-<div align="center">
-  
-| **🧠 AI/ML Mastery** | **📊 Data Science** | **☁️ Cloud & DevOps** | **🌐 Full Stack** |
-|:---:|:---:|:---:|:---:|
-| `TensorFlow` `PyTorch` | `Pandas` `NumPy` | `AWS` `GCP` | `React` `Node.js` |
-| `Scikit-learn` `Keras` | `Matplotlib` `Seaborn` | `Docker` `Kubernetes` | `HTML5` `CSS3` |
-| `OpenCV` `NLTK` | `Power BI` `Tableau` | `Git` `GitHub Actions` | `JavaScript` `Python` |
-| `Hugging Face` `spaCy` | `SQL` `NoSQL` | `Linux` `CI/CD` | `FastAPI` `Flask` |
-
-</div>
-
----
-
-## 🚀 **LEGENDARY PROJECTS**
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Projects+That+Change+The+World" />
-</div>
-
-### 🌿 **[WEED DETECTION SYSTEM](https://github.com/hopessugar/weed_detection.git)**
-> **🎯 Revolutionary CNN Model for Precision Agriculture**
-```
-🔥 Achievement: 92% Accuracy | 🌱 Impact: Smart Farming Revolution
-⚡ Tech Stack: Python • TensorFlow • OpenCV • CNN Architecture
-💡 Innovation: Real-time crop vs weed classification for optimal yield
-🚀 Status: Helping farmers maximize productivity worldwide
-```
-
-### 📰 **[FAKE NEWS DETECTOR](https://github.com/hopessugar/fake_news_detection.git)**
-> **🛡️ Advanced NLP Pipeline for Truth Verification**
-```
-🔍 Achievement: Real-time Verification | 📊 Impact: Information Integrity Guardian
-⚡ Tech Stack: Python • NLTK • Scikit-learn • NLP Techniques
-💡 Innovation: Combating misinformation with intelligent analysis
-🚀 Status: Protecting digital truth in the age of information warfare
-```
-
-### 📈 **[STOCK PRICE PROPHET](https://github.com/hopessugar/stock_price_detection.git)**
-> **🔮 LSTM-Powered Financial Intelligence System**
-```
-📊 Achievement: 5+ Years Market Analysis | 💹 Impact: Democratizing Finance
-⚡ Tech Stack: Python • TensorFlow • LSTM • Time Series Analysis
-💡 Innovation: Predicting market trends with deep learning precision
-🚀 Status: Empowering investors with AI-driven insights
-```
-
-### 💊 **[PERSONALIZED MEDICINE AI](https://www.jetir.org/view?paper=JETIRGW06026)**
-> **🩺 Published Research: AI-Powered Healthcare Revolution**
-```
-🔬 Achievement: Published in JETIR | 💊 Impact: Personalized Treatment
-⚡ Tech Stack: Machine Learning • Medical Data Analysis • Research
-💡 Innovation: Symptom-based intelligent medication recommendations
-🚀 Status: Revolutionizing patient care through AI precision
-```
-
----
-
-## 📊 **PERFORMANCE DASHBOARD**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hopessugar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_radius=15&card_width=400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hopessugar&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&border_radius=15&card_width=400" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopessugar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=15&card_width=400" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hopessugar&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true&border_radius=15&custom_title=Contribution%20Journey" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=◢+LEGENDARY+PROJECTS+◣" />
 </div>
 
----
-
-## 🎯 **MISSION OBJECTIVES**
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Building+The+Future%2C+One+Algorithm+At+A+Time" />
-</div>
-
-<div align="center">
-  
-| 🚀 **INNOVATION** | 🤝 **COLLABORATION** | 📚 **KNOWLEDGE** | 🌍 **IMPACT** |
-|:---:|:---:|:---:|:---:|
-| **Open Source** | **Global Network** | **Continuous Learning** | **Social Good** |
-| Dominating GitHub | Building developer | Documenting journey | Healthcare AI |
-| with game-changing | communities across | for future | solutions that |
-| contributions | continents | innovators | save lives |
-
-</div>
-
----
-
-## 🌟 **CURRENT QUESTS**
-
-<div align="center">
-
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <div align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=🌿+WEED+DETECTION+SYSTEM" />
+      </div>
+      <br>
+      <div align="left">
+        
 ```yaml
-Active_Projects:
-  - name: "Next-Gen Healthcare AI"
-    status: "🔥 In Progress"
-    impact: "Revolutionary patient care"
-    
-  - name: "Open Source ML Library"
-    status: "🚀 Planning"
-    impact: "Democratizing AI development"
-    
-  - name: "AI Education Platform"
-    status: "💡 Ideation"
-    impact: "Teaching AI to the world"
+Project: "Agricultural Revolution"
+Achievement: "92% Accuracy CNN Model"
+Impact: "Smart Farming Renaissance"
+Tech_Stack:
+  - Python • TensorFlow • OpenCV
+  - Computer Vision • Deep Learning
+  - Real-time Classification
+Status: "🔥 LIVE & TRANSFORMING AGRICULTURE"
+GitHub: "hopessugar/weed_detection"
+```
 
-Research_Focus:
-  - Computer Vision in Agriculture
-  - NLP for Healthcare Applications
-  - Ethical AI Development
-  - Sustainable Technology Solutions
+      </div>
+      <div align="center">
+        <a href="https://github.com/hopessugar/weed_detection.git">
+          <img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECT-4ECDC4?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" />
+        </a>
+      </div>
+    </td>
+    <td align="center" width="50%">
+      <div align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=400&lines=📰+FAKE+NEWS+DETECTOR" />
+      </div>
+      <br>
+      <div align="left">
+        
+```yaml
+Project: "Truth Guardian System"
+Achievement: "Real-time Verification"
+Impact: "Information Integrity Shield"
+Tech_Stack:
+  - Python • NLTK • Scikit-learn
+  - Natural Language Processing
+  - Sentiment Analysis
+Status: "🛡️ PROTECTING DIGITAL TRUTH"
+GitHub: "hopessugar/fake_news_detection"
+```
 
-Community_Goals:
-  - Mentor 100+ developers
-  - Contribute to major OS projects
-  - Publish 10+ research papers
-  - Speak at international conferences
+      </div>
+      <div align="center">
+        <a href="https://github.com/hopessugar/fake_news_detection.git">
+          <img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECT-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" />
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <div align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=45B7D1&center=true&vCenter=true&width=400&lines=📈+STOCK+PRICE+PROPHET" />
+      </div>
+      <br>
+      <div align="left">
+        
+```yaml
+Project: "Financial Oracle AI"
+Achievement: "5+ Years Market Analysis"
+Impact: "Democratizing Investment Intel"
+Tech_Stack:
+  - Python • TensorFlow • LSTM
+  - Time Series Analysis
+  - Predictive Modeling
+Status: "💹 PREDICTING MARKET FUTURES"
+GitHub: "hopessugar/stock_price_detection"
+```
+
+      </div>
+      <div align="center">
+        <a href="https://github.com/hopessugar/stock_price_detection.git">
+          <img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECT-45B7D1?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" />
+        </a>
+      </div>
+    </td>
+    <td align="center" width="50%">
+      <div align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=💊+PERSONALIZED+MEDICINE+AI" />
+      </div>
+      <br>
+      <div align="left">
+        
+```yaml
+Project: "Healthcare Revolution"
+Achievement: "Published Research - JETIR"
+Impact: "Personalized Treatment AI"
+Tech_Stack:
+  - Machine Learning • Medical Data
+  - Symptom Analysis • Drug Recommendation
+  - Research & Development
+Status: "🩺 TRANSFORMING PATIENT CARE"
+Publication: "jetir.org/view?paper=JETIRGW06026"
+```
+
+      </div>
+      <div align="center">
+        <a href="https://www.jetir.org/view?paper=JETIRGW06026">
+          <img src="https://img.shields.io/badge/📖_READ_RESEARCH-blueviolet?style=for-the-badge&logo=academia&logoColor=white&labelColor=1a1a1a" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=800&lines=◢+PERFORMANCE+METRICS+◣" />
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=hopessugar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF&border_radius=20&card_width=400" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=hopessugar&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=4ECDC4&border_radius=20&card_width=400" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopessugar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=20&card_width=800" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hopessugar&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=4ECDC4&area=true&hide_border=true&border_radius=20&custom_title=◢+CONTRIBUTION+SYMPHONY+◣" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=◢+MISSION+OBJECTIVES+◣" />
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <div align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=200&lines=🚀+INNOVATION" />
+      </div>
+      <br>
+      <div align="center">
+        <img src="https://img.shields.io/badge/OPEN_SOURCE-DOMINATION-4ECDC4?style=for-the-badge&labelColor=1a1a1a" />
+      </div>
+      <br>
+      <sub>Building revolutionary<br>contributions that<br>shape the future</sub>
+    </td>
+    <td align="center" width="25%">
+      <div align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=200&lines=🤝+COLLABORATION" />
+      </div>
+      <br>
+      <div align="center">
+        <img src="https://img.shields.io/badge/GLOBAL_NETWORK-EXPANSION-FF6B6B?style=for-the-badge&labelColor=1a1a1a" />
+      </div>
+      <br>
+      <sub>Connecting brilliant<br>minds across<br>continents</sub>
+    </td>
+    <td align="center" width="25%">
+      <div align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=1000&color=45B7D1&center=true&vCenter=true&width=200&lines=📚+KNOWLEDGE" />
+      </div>
+      <br>
+      <div align="center">
+        <img src="https://img.shields.io/badge/CONTINUOUS_LEARNING-EVOLUTION-45B7D1?style=for-the-badge&labelColor=1a1a1a" />
+      </div>
+      <br>
+      <sub>Documenting journey<br>for future<br>innovators</sub>
+    </td>
+    <td align="center" width="25%">
+      <div align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=1000&color=blueviolet&center=true&vCenter=true&width=200&lines=🌍+IMPACT" />
+      </div>
+      <br>
+      <div align="center">
+        <img src="https://img.shields.io/badge/SOCIAL_GOOD-TRANSFORMATION-blueviolet?style=for-the-badge&labelColor=1a1a1a" />
+      </div>
+      <br>
+      <sub>Healthcare AI<br>solutions that<br>save lives</sub>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=◢+CURRENT+QUESTS+◣" />
+</div>
+
+<div align="center">
+  
+```yaml
+█████████████████████████████████████████████████████████████████████
+█  ACTIVE PROJECTS                                                  █
+█████████████████████████████████████████████████████████████████████
+█                                                                   █
+█  ╔══════════════════════════════════════════════════════════════╗  █
+█  ║  🏥 Next-Gen Healthcare AI      Status: 🔥 IN PROGRESS     ║  █
+█  ║  🚀 Open Source ML Library      Status: 🚀 PLANNING       ║  █
+█  ║  📚 AI Education Platform       Status: 💡 IDEATION       ║  █
+█  ║  🌍 Sustainable Tech Solutions  Status: 🌱 RESEARCH       ║  █
+█  ╚══════════════════════════════════════════════════════════════╝  █
+█                                                                   █
+█████████████████████████████████████████████████████████████████████
+█  RESEARCH FOCUS                                                   █
+█████████████████████████████████████████████████████████████████████
+█                                                                   █
+█  • Computer Vision in Agriculture  • Ethical AI Development       █
+█  • NLP for Healthcare Applications • Sustainable Technology       █
+█  • Deep Learning Optimization     • Human-AI Collaboration       █
+█                                                                   █
+█████████████████████████████████████████████████████████████████████
 ```
 
 </div>
 
----
-
-## 💬 **CONNECT WITH THE ARCHITECT**
-
 <div align="center">
-  <a href="mailto:vyassilky2004@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email_The_Visionary-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
-  </a>
-  <a href="https://github.com/hopessugar">
-    <img src="https://img.shields.io/badge/🚀_GitHub_Universe-4ECDC4?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-  </a>
-  <a href="https://linkedin.com/in/silky-vyas">
-    <img src="https://img.shields.io/badge/💼_LinkedIn_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
-  </a>
-  <a href="https://twitter.com/silkyvyas">
-    <img src="https://img.shields.io/badge/🐦_Twitter_Thoughts-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Thanks+For+Visiting+My+Digital+Universe!;Let's+Build+The+Future+Together!;The+Best+Is+Yet+To+Come...;Stay+Curious%2C+Stay+Innovative!;Code+%7C+Create+%7C+Inspire" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=888888&center=true&vCenter=true&width=600&lines=Crafted+with+❤️+by+Silky+Vyas;Architecting+Tomorrow's+Intelligence;Making+AI+Dreams+Reality" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=800&lines=◢+CONNECT+WITH+THE+ARCHITECT+◣" />
 </div>
 
----
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="mailto:vyassilky2004@gmail.com">
+          <img src="https://img.shields.io/badge/📧_EMAIL_THE_VISIONARY-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/hopessugar">
+          <img src="https://img.shields.io/badge/🚀_GITHUB_UNIVERSE-4ECDC4?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://linkedin.com/in/silky-vyas">
+          <img src="https://img.shields.io/badge/💼_LINKEDIN_NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://twitter.com/silkyvyas">
+          <img src="https://img.shields.io/badge/🐦_TWITTER_THOUGHTS-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1a1a" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br><br>
 
 <div align="center">
-  <sub>🌟 <strong>Commit to Excellence. Code with Purpose. Create with Passion.</strong> 🌟</sub>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Thanks+For+Visiting+My+Digital+Universe!;Let's+Build+The+Future+Together!;The+Best+Is+Yet+To+Come...;Stay+Curious%2C+Stay+Innovative!;Code+%7C+Create+%7C+Inspire+%7C+Transform" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=4000&pause=2000&color=888888&center=true&vCenter=true&width=600&lines=▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓;Crafted+with+❤️+by+Silky+Vyas;Architecting+Tomorrow's+Intelligence;Making+AI+Dreams+Reality;▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓" />
+</div>
+
+<div align="center">
+  <sub>🌟 <strong>Commit to Excellence. Code with Purpose. Create with Passion. Transform with Vision.</strong> 🌟</sub>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=5000&pause=3000&color=FF6B6B&center=true&vCenter=true&width=800&lines=◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆+◆" />
 </div>
 
