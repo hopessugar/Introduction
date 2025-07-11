@@ -4,7 +4,7 @@
 
 <!-- Hero Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=60&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=S+I+L+K+Y++++V+Y+A+S;A+I++++A+R+C+H+I+T+E+C+T;V+I+S+I+O+N+A+R+Y" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=60&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=S+I+L+K+Y++++V+Y+A+S;A+I++;+A+R+C+H+I+T+E+C+T;V+I+S+I+O+N+A+R+Y" />
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1000&lines=🔮+Visionary+AI+Engineer+Crafting+Intelligence+with+Purpose+%26+Precision;⚡+Turning+Mathematics+into+Magic+%7C+Code+into+Consciousness;🚀+Pioneering+Digital+Breakthroughs+That+Reshape+Humanity" />
 </div>
