@@ -52,15 +52,16 @@
 </div>
 
 <!-- Legendary Projects Section -->
-<hr/>
+ <hr/>
 <div align="center">
   <h2>🚀 Legendary Projects — From Code to Impact</h2>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </div>
 
 <table align="center">
   <tr>
     <td width="50%">
-      <h4>🌿 Weed Detection System</h4>
+      <h4>🌿 <strong>Weed Detection System</strong></h4>
       <ul>
         <li>🧠 CNN-powered real-time plant classification</li>
         <li>📊 92% Accuracy in real-world testing</li>
@@ -71,7 +72,7 @@
       </a>
     </td>
     <td width="50%">
-      <h4>📰 Fake News Detector</h4>
+      <h4>📰 <strong>Fake News Detector</strong></h4>
       <ul>
         <li>📡 Real-time NLP-based detection pipeline</li>
         <li>🔍 Built using NLTK, scikit-learn & Flask</li>
@@ -84,7 +85,7 @@
   </tr>
   <tr>
     <td>
-      <h4>📈 Stock Price Prophet</h4>
+      <h4>📈 <strong>Stock Price Prophet</strong></h4>
       <ul>
         <li>📉 Trained LSTM model on 5+ years of stock data</li>
         <li>📊 Time Series Forecasting for investor insights</li>
@@ -95,7 +96,7 @@
       </a>
     </td>
     <td>
-      <h4>💊 Personalized Medicine AI</h4>
+      <h4>💊 <strong>Personalized Medicine AI</strong></h4>
       <ul>
         <li>🧬 Recommends treatment plans using ML</li>
         <li>📜 Published in JETIR journal (2023)</li>
@@ -106,27 +107,35 @@
       </a>
     </td>
   </tr>
-</table>
- <h4>📰 Prespective Medecine ML model </h4>
+  <tr>
+    <td colspan="2">
+      <h4>🧠 <strong>Perspective Medicine ML Model</strong></h4>
       <ul>
-        <li>📡85%+ accuracy in flu medication & dosage prediction</li>
+        <li>📡 85%+ accuracy in flu medication & dosage prediction</li>
         <li>🔍 Automated ML pipeline using genetic and clinical data</li>
-        <li>🔐 Reduced medication selection time with dual-model (classification + regression) system</li>
+        <li>🧪 Dual-model architecture (classification + regression)</li>
+        <li>⚡ Reduced decision latency in flu treatment protocols</li>
       </ul>
       <a href="https://github.com/hopessugar/Prespective_meds">
-        <img src="https://img.shields.io/badge/EXPLORE_PROJECT-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/EXPLORE_PROJECT-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
       </a>
     </td>
   </tr>
-  <tr>
-    <td>
-<!-- Stats -->
+</table>
+
 <hr/>
+
 <div align="center">
+  <h2>📊 GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=hopessugar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=hopessugar&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopessugar&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117" />
 </div>
+
+<hr/>
+---
+
+
 
 <!-- Current Missions -->
 <hr/>
