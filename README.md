@@ -107,7 +107,19 @@
     </td>
   </tr>
 </table>
-
+ <h4>📰 Prespective Medecine ML model </h4>
+      <ul>
+        <li>📡85%+ accuracy in flu medication & dosage prediction</li>
+        <li>🔍 Automated ML pipeline using genetic and clinical data</li>
+        <li>🔐 Reduced medication selection time with dual-model (classification + regression) system</li>
+      </ul>
+      <a href="https://github.com/hopessugar/Prespective_meds">
+        <img src="https://img.shields.io/badge/EXPLORE_PROJECT-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
 <!-- Stats -->
 <hr/>
 <div align="center">
