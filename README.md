@@ -136,9 +136,7 @@
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=hopessugar&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117" width="48%" />
     
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=hopessugar&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117" width="48%" />
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopessugar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117" width="48%" />
+  
   </div>
 
   <!-- Trophy Section -->
