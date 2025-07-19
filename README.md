@@ -126,13 +126,29 @@
 <hr/>
 
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=hopessugar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hopessugar&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopessugar&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117" />
+
+  <h2>🚀 My GitHub Performance</h2>
+
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hopessugar&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true&radius=15" width="100%" />
+
+  <!-- GitHub Stats -->
+  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=hopessugar&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117" width="48%" />
+    
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=hopessugar&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117" width="48%" />
+    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hopessugar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117" width="48%" />
+  </div>
+
+  <!-- Trophy Section -->
+  <h2>🏆 GitHub Achievements</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=hopessugar&theme=tokyonight&no-bg=true&no-frame=true&column=6&margin-w=10&margin-h=15" width="100%" />
+
 </div>
 
 <hr/>
+
 ---
 
 
